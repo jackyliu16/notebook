@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "0581c1bdb02c2aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66011f1cf70f9f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "topics/Unikernel/Unikernel.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "711aa076cd7cee3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7222814d5a23e18e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669a9f4e3e9be031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36e4ab943ed060c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "132d4317509308fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "right": {
+    "id": "c82f5e4c6d64d246",
+    "type": "split",
+    "children": [
+      {
+        "id": "f543d8cb9ccf47d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c8edb2ff9749c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "topics/Unikernel/Unikernel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e26faf0fc965ebd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "topics/Unikernel/Unikernel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a86df00066321636",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "304eb124a73d82ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "topics/Unikernel/Unikernel.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c66011f1cf70f9f9",
+  "lastOpenFiles": [
+    "topics/Unikernel/LibOS and Unikernel.md",
+    "topics/Unikernel/Unikernel.md",
+    "topics/Unikernel/img/Pasted image 20221011173640.png",
+    "Pasted image 20221011173753.png",
+    "topics/Module/Theseus.md",
+    "结构.md"
+  ]
+}

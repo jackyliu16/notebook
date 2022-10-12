@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c66011f1cf70f9f9",
+        "id": "bdceef7602681a5f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "topics/Unikernel/Unikernel.md",
+            "file": "topics/Module/ydr-single-syscall 实现思路.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 347.5
   },
   "right": {
     "id": "c82f5e4c6d64d246",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/Unikernel/Unikernel.md",
+                "file": "topics/Module/ydr-single-syscall 实现思路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topics/Unikernel/Unikernel.md",
+                "file": "topics/Module/ydr-single-syscall 实现思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics/Unikernel/Unikernel.md"
+                "file": "topics/Module/ydr-single-syscall 实现思路.md"
               }
             }
           }
@@ -128,13 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c66011f1cf70f9f9",
+  "active": "bdceef7602681a5f",
   "lastOpenFiles": [
-    "topics/Unikernel/LibOS and Unikernel.md",
-    "topics/Unikernel/Unikernel.md",
-    "topics/Unikernel/img/Pasted image 20221011173640.png",
-    "Pasted image 20221011173753.png",
+    "topics/Module/ydr-single-kernel-context实现思路.md",
+    "topics/Module/ydr-single-syscall 实现思路.md",
     "topics/Module/Theseus.md",
-    "结构.md"
+    "topics/img/Pasted image 20221011173640.png",
+    "topics/Unikernel/221011 - record.md",
+    "topics/Unikernel/Unikernel.md",
+    "topics/Unikernel/LibOS and Unikernel.md",
+    "topics/img/Pasted image 20221012090758.png",
+    "topics/img/Pasted image 20221012001803.png",
+    "Pasted image 20221011173753.png"
   ]
 }

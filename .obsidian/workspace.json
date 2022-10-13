@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "0581c1bdb02c2aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e0ca3cd653fee7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdceef7602681a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rust-restudy/泛型，特型，生命周期.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e849dad4359b3ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "711aa076cd7cee3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7222814d5a23e18e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669a9f4e3e9be031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36e4ab943ed060c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "132d4317509308fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c82f5e4c6d64d246",
+    "type": "split",
+    "children": [
+      {
+        "id": "f543d8cb9ccf47d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c8edb2ff9749c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rust-restudy/泛型，特型，生命周期.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e26faf0fc965ebd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "rust-restudy/泛型，特型，生命周期.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a86df00066321636",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "304eb124a73d82ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "rust-restudy/泛型，特型，生命周期.md"
+              }
+            }
+          },
+          {
+            "id": "4e325a696f2d6f3d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "12dff9fe27b0453e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "bdceef7602681a5f",
+  "lastOpenFiles": [
+    "rust-restudy/标准库操作.md",
+    "img/Pasted image 20221011173640.png",
+    "topics/Module/ydr-single-syscall 实现思路.md",
+    "topics/Module/ydr-single-kernel-context实现思路.md",
+    "topics/Module/Theseus.md",
+    "topics/Unikernel/221011 - record.md",
+    "topics/Unikernel/Unikernel.md",
+    "topics/Unikernel/LibOS and Unikernel.md",
+    "img/Pasted image 20221012090758.png",
+    "img/Pasted image 20221012001803.png"
+  ]
+}

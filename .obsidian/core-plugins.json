@@ -11,9 +11,12 @@
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "starred",
+  "zk-prefixer",
   "outline",
   "word-count",
-  "file-recovery"
+  "file-recovery",
+  "sync"
 ]

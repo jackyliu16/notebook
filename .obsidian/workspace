@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "topics/Module/ydr-single-syscall 实现思路.md",
+            "file": "rust-restudy/泛型，特型，生命周期.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 219
   },
   "right": {
     "id": "c82f5e4c6d64d246",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/Module/ydr-single-syscall 实现思路.md",
+                "file": "rust-restudy/泛型，特型，生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topics/Module/ydr-single-syscall 实现思路.md",
+                "file": "rust-restudy/泛型，特型，生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +117,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics/Module/ydr-single-syscall 实现思路.md"
+                "file": "rust-restudy/泛型，特型，生命周期.md"
               }
+            }
+          },
+          {
+            "id": "4e325a696f2d6f3d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "bdceef7602681a5f",
   "lastOpenFiles": [
-    "topics/Module/ydr-single-kernel-context实现思路.md",
+    "rust-restudy/标准库操作.md",
+    "img/Pasted image 20221011173640.png",
     "topics/Module/ydr-single-syscall 实现思路.md",
+    "topics/Module/ydr-single-kernel-context实现思路.md",
     "topics/Module/Theseus.md",
-    "topics/img/Pasted image 20221011173640.png",
     "topics/Unikernel/221011 - record.md",
     "topics/Unikernel/Unikernel.md",
     "topics/Unikernel/LibOS and Unikernel.md",
-    "topics/img/Pasted image 20221012090758.png",
-    "topics/img/Pasted image 20221012001803.png",
-    "Pasted image 20221011173753.png"
+    "img/Pasted image 20221012090758.png",
+    "img/Pasted image 20221012001803.png"
   ]
 }

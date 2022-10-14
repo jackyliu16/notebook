@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e0ca3cd653fee7c",
+        "id": "e5a635e4e0c9563d",
         "type": "tabs",
         "children": [
           {
-            "id": "bdceef7602681a5f",
+            "id": "c4b45f8f96260f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "rust-restudy/泛型，特型，生命周期.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9e849dad4359b3ad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
               }
             }
           }
@@ -79,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c82f5e4c6d64d246",
@@ -115,7 +104,7 @@
               "state": {
                 "file": "rust-restudy/泛型，特型，生命周期.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -157,18 +146,20 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 467.5,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bdceef7602681a5f",
+  "active": "c4b45f8f96260f9a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-10-14 02.26.14.excalidraw.md",
+    "rust-restudy/泛型，特型，生命周期.md",
     "rust-restudy/标准库操作.md",
     "img/Pasted image 20221011173640.png",
     "topics/Module/ydr-single-syscall 实现思路.md",
@@ -176,8 +167,6 @@
     "topics/Module/Theseus.md",
     "topics/Unikernel/221011 - record.md",
     "topics/Unikernel/Unikernel.md",
-    "topics/Unikernel/LibOS and Unikernel.md",
-    "img/Pasted image 20221012090758.png",
-    "img/Pasted image 20221012001803.png"
+    "topics/Unikernel/LibOS and Unikernel.md"
   ]
 }

@@ -1,10 +1,10 @@
 [
-  "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
   "markdown-prettifier",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-checklist-plugin",
+  "tag-wrangler",
   "obsidian-admonition",
-  "code-block-copy",
-  "tag-wrangler"
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-code-block-enhancer",
+  "code-block-copy"
 ]

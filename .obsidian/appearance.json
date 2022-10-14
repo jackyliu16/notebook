@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "cssTheme": "Alchemy",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 16
 }

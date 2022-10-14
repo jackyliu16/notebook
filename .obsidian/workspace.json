@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e5a635e4e0c9563d",
+        "id": "2a02993d506e40e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c4b45f8f96260f9a",
+            "id": "300710bb5ded9f24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust-restudy/泛型，特型，生命周期.md",
+                "file": "topics/Module/221013 - 进程上下文切换（ydr，异界传送门).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c82f5e4c6d64d246",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust-restudy/泛型，特型，生命周期.md",
+                "file": "topics/Module/221013 - 进程上下文切换（ydr，异界传送门).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rust-restudy/泛型，特型，生命周期.md",
+                "file": "topics/Module/221013 - 进程上下文切换（ydr，异界传送门).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust-restudy/泛型，特型，生命周期.md"
+                "file": "topics/Module/221013 - 进程上下文切换（ydr，异界传送门).md"
               }
             }
           },
@@ -134,14 +135,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "12dff9fe27b0453e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           }
@@ -156,17 +149,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c4b45f8f96260f9a",
+  "active": "300710bb5ded9f24",
   "lastOpenFiles": [
+    "topics/Module/2022---- - linker(ydr rCore-single).md",
+    "topics/Module/221013 - 进程上下文切换（ydr，异界传送门).md",
     "Excalidraw/Drawing 2022-10-14 02.26.14.excalidraw.md",
+    "topics/Module/Theseus.md",
     "rust-restudy/泛型，特型，生命周期.md",
     "rust-restudy/标准库操作.md",
     "img/Pasted image 20221011173640.png",
     "topics/Module/ydr-single-syscall 实现思路.md",
     "topics/Module/ydr-single-kernel-context实现思路.md",
-    "topics/Module/Theseus.md",
-    "topics/Unikernel/221011 - record.md",
-    "topics/Unikernel/Unikernel.md",
-    "topics/Unikernel/LibOS and Unikernel.md"
+    "topics/Unikernel/221011 - record.md"
   ]
 }
